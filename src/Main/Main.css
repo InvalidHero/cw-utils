@@ -1,0 +1,12 @@
+.main-content {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+/* break point for mobile */
+@media only screen and (max-width: 450px) {
+    .main-content {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+}
